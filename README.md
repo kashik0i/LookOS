@@ -1,7 +1,10 @@
 # LookOS
 
-### Just to help me learn more about OS development and eventually make this a working hobby operating system.
+## About
 
+Just to help me learn more about OS development and eventually make this a working hobby operating system.
+
+Inspired by Andreas Kling [computron](https://github.com/awesomekling/computron).
 
 ## References:
 [my lab](https://lab.badawy.dev/LookOS)
@@ -16,3 +19,5 @@
 
 [awesome list](https://github.com/jubalh/awesome-os)
 
+## License
+This project is licensed under MIT license.
